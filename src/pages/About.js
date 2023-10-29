@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
         <h1>About</h1>
-        <p>This application is part of the programming assigment for the course Modern Methods in Software Engineering at KTH Royal Institute of Technology.</p>
+        <p>Application developed by Mariana Reyes and Ricardo Olmedo for the course ID2207 at KTH ROyal Institute of Technology .</p>
     </div>
   );
 }

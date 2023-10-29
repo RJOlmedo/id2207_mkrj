@@ -9,7 +9,7 @@ const Login = () => {
         <LoginForm/>
 
         <h1>Create user</h1>
-        <p>The system doesn't support creating users at the moment. Contact an administrator to create an account for you.</p>
+        <p>Contact IT for your credentials for accessing the system or creating an account.</p>
     </div>
   );
 }
