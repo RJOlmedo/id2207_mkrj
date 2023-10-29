@@ -1,4 +1,5 @@
 If you want a video tutorial here it is: https://youtu.be/-bY0s8pAuiE
+Application is also deployed here: https://id2207-mkrj.vercel.app/
 
 This is a Web Application developed using React for my class at KTH ID2207, for you to run this project:
 1. Clone the repository: Please open your terminal and run the following "git clone https://github.com/RJOlmedo/id2207_mkrj.git"
