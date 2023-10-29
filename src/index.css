@@ -1,0 +1,38 @@
+/* Set black as the main background color */
+body {
+  background-color: black;
+  color: white; /* Set text color to white */
+}
+
+/* Apply blue accents to specific elements */
+/* Styles for the navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #3498db; /* Change background color to blue */
+  color: white; /* Set text color to white */
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the navbar items */
+.navbar-item {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+/* Accent color - Yellow */
+.accent-yellow {
+  color: #FFD700;
+}
+
+/* Apply yellow accents to specific elements */
+/* For example, apply yellow color to .activityPlan */
+.activityPlan {
+  color: #FFD700;
+}

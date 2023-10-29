@@ -1,0 +1,67 @@
+/* Styles for App component */
+.App {
+  text-align: left;
+}
+
+/* Container styles */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Inner content styles */
+.inner {
+  width: 100%;
+  padding: 8rem 10px 4rem;
+}
+
+/* Form container styles */
+.form-container {
+  width: 90%;
+  margin-bottom: 20px;
+  border-radius: calc(0.1 * 100px);
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.38);
+}
+
+/* Input text styles */
+.input-text {
+  font-size: 1rem;
+  font-weight: 400;
+  width: 70%;
+  padding-right: 5px;
+  padding-left: 10px;
+  margin-left: 20px;
+  height: 45px;
+  outline: none;
+  border: none;
+}
+
+/* Activity Plan styles */
+.activityPlan {
+  color: gray;
+}
+
+/* Navbar styles */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  color: #3498db;
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar item styles */
+.navbar-item {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
